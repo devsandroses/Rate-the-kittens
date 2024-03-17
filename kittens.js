@@ -6,10 +6,10 @@ const IMAGES = [
   ];
   
   const IMAGE_TITLES = [
-    "Rum Tum Tugger",
-    "Grizabella",
-    "Gus",
-    "Mr. Mistoffelees",
+    "Da Cute 1",
+    "Cutesy McCute Cute",
+    "Sir Cutes Alot",
+    "Sucha QT",
   ];
   
   let LIKE_NUMBERS = [
